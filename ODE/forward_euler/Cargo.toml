@@ -1,0 +1,6 @@
+[package]
+name = "forward_euler"
+version = "0.1.0"
+authors = ["Pritish Patil <iampritishpatil@gmail.com>"]
+
+[dependencies]
